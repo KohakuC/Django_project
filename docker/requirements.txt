@@ -1,0 +1,5 @@
+mysqlclient
+django
+django-bootstrap5
+django-extensions
+ipython
